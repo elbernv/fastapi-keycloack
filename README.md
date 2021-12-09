@@ -1,4 +1,4 @@
-# FastAPI Resource Server
+# FastAPI Keycloack
 
 Keycloack plugin for FastApi.
 
