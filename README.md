@@ -36,7 +36,7 @@ allowed_grant_types = [
 ]
 
 auth_scheme = FastApiKeycloack(
-    url="http://localhost:8080/auth/realms/test-plugin",
+    url="http://localhost:8080/auth/realms/master",
     scheme_name="Keycloak",
     jwt_decode_options=decode_options,
     allowed_grant_types=allowed_grant_types,
